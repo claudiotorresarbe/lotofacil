@@ -1,4 +1,4 @@
-# Dados de sorteios da Lotofacil
+# Dados de sorteios - Lotofacil
 
 ## Codigo para receber dados do sorteio atual
 
